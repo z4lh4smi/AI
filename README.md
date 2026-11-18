@@ -1,6 +1,7 @@
 # AI LAB TASK
 
-STUDENT: z4lh4smi
+Name: Muhammad Zal Hasmi Bin Mat Zaidi
+Student ID: 24005453
 
 ## Table of Contents
 
